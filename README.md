@@ -1,1 +1,1 @@
-# Day2-assignment-Java
+# Day2-assignment-JavaBootCamp
